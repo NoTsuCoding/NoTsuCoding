@@ -1,4 +1,10 @@
-<h3 style="text-align: center">Hi 👋, I am Nott Patsakorn Thiankhao</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21kejd5N210a29ibnI4ajc3czZ6NGVyOWlzYnM0cXM1cGx0dzZ2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" style="width: 500px; border-radius: 100%" />
+  <h3>Hi 👋, I am Nott Patsakorn Thiankhao</h1>
+  <hr />
+</div>
+<p>I'm an IT student from Rayong Technical College @Thailand</p>
+
 
 <!--
 **NoTsuCoding/NoTsuCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
